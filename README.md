@@ -1,4 +1,4 @@
-# Mamba for Deep-Learning Side-Channel Analysis (DLSCA)
+# Mamba for Deep-Learning Side-Channel Attack (DLSCA)
 
 This folder contains the code for profiled side-channel attacks on AES with a
 **bidirectional Mamba** (selective state-space) model, compared against an
